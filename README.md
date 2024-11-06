@@ -1,6 +1,5 @@
 - @juliaoliveirall
 - Estudante de Análise e desenvolvimento de sistemas, sistemas de informação e Front-end com React pela FAP-softex
-- Procurando aprender mais de banco de dados e back-end
 
 
 
