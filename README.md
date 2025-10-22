@@ -32,5 +32,16 @@ Minha experiência abrange todo o ciclo de vida do desenvolvimento de software:
 
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=juliaoliveirall&layout=compact&theme=radical)](https://github.com/juliaoliveirall)
 
+````
 
+## 🌐 Conecte-se Comigo
+
+| Plataforma | Link |
+| :--- | :--- |
+| **LinkedIn** | [Seu Perfil do LinkedIn](www.linkedin.com/in/julia-oliveira-568a86289) |
+| **GitHub** | [Seu Perfil do GitHub](https://github.com/juliaoliveirall) |
+| **Email** | [julia.oliveira@email.com](mailto:limajulia2912@gmail.com) |
+
+---
+<p align="center">Feito com ☕ e Código.</p>
 
