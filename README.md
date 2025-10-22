@@ -35,7 +35,7 @@ Minha experiência abrange todo o ciclo de vida do desenvolvimento de software:
 
 | Plataforma | Link |
 | :--- | :--- |
-| **LinkedIn** | [LinkedIn](www.linkedin.com/in/julia-oliveira-568a86289) |
+| **LinkedIn** | [LinkedIn](https://www.linkedin.com/in/julia-oliveira-568a86289/) |
 | **GitHub** | [Github](https://github.com/juliaoliveirall) |
 | **Email** | [E-Mail](mailto:limajulia2912@gmail.com) |
 
