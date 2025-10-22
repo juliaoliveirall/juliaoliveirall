@@ -28,13 +28,9 @@ Minha experiência abrange todo o ciclo de vida do desenvolvimento de software:
 
 
 ```markdown
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_AQUI&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=juliaoliveirall&show_icons=true&theme=radical)
 
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_AQUI&layout=compact&theme=radical)](https://github.com/SEU_USERNAME_AQUI)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=juliaoliveirall&layout=compact&theme=radical)](https://github.com/juliaoliveirall)
 
 
 
-<!---
-juliaoliveirall/juliaoliveirall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
